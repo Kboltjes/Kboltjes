@@ -17,6 +17,9 @@ Hi. My name's Kade Boltjes. I'm a senior studying computer science at Purdue Uni
   <a href="mailto:kadeboltjes15@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="https://kboltjes.github.io/">
+    <img src="https://img.shields.io/badge/My Website-purple?style=for-the-badge&logo=Github&logoColor=white" alt="Website Badge"/>
+  </a>
 </div>
 
 <!--
